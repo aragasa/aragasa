@@ -4,7 +4,7 @@ Hi 👋 My name is Alexander Ragasa
 Full Stack Java Developer
 -------------------------
 
-Junior developer who started coding in Java, now learning Python.
+Junior developer who started coding in Java, currently learning Python.
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [alexanderagasa@gmail.com](mailto:alexanderagasa@gmail.com)
